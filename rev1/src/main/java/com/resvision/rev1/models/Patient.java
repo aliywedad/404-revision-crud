@@ -14,7 +14,7 @@ import lombok.Setter;
 @AllArgsConstructor
 @NoArgsConstructor
 
-public class patient {
+public class Patient {
     @Id
     @GeneratedValue
     long id;
